@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tean. UNIQUE"
+title                    : "TeanUNIQUE"
 title_separator          : "-"
 name                     : "Your Name"
-description              : "UNIQUE팀은 사랑입니다."
-url                      : "https://unique.github.io"
-baseurl                  : "UNIQUE"
+description              : "TeamUNIQUE is love."
+url                      : "https://namnani.github.io"
+baseurl                  : "/UNIQUE"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
